@@ -1,2 +1,3 @@
 My name is Moses Joshua Lesmana, usually called Mojo.
-My favorite language is Python because its simplicity. I can code in C, C++, Java, and JavaScript.
+My favorite language is Python because its simplicity. 
+I can code in C, C++, Java, and JavaScript.
